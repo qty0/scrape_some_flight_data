@@ -1,0 +1,188 @@
+{
+    "Places": [
+        {
+            "PlaceId": "BLL-sky",
+            "PlaceName": "Billund",
+            "CountryId": "DK-sky",
+            "RegionId": "",
+            "CityId": "BILL-sky",
+            "CountryName": "Denmark"
+        },
+        {
+            "PlaceId": "HEL-sky",
+            "PlaceName": "Helsinki Vantaa",
+            "CountryId": "FI-sky",
+            "RegionId": "",
+            "CityId": "HELS-sky",
+            "CountryName": "Finland"
+        },
+        {
+            "PlaceId": "BUD-sky",
+            "PlaceName": "Budapest",
+            "CountryId": "HU-sky",
+            "RegionId": "",
+            "CityId": "BUDA-sky",
+            "CountryName": "Hungary"
+        },
+        {
+            "PlaceId": "LOND-sky",
+            "PlaceName": "London",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "LOND-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "LHR-sky",
+            "PlaceName": "London Heathrow",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "LOND-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "LGW-sky",
+            "PlaceName": "London Gatwick",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "LOND-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "STN-sky",
+            "PlaceName": "London Stansted",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "LOND-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "LTN-sky",
+            "PlaceName": "London Luton",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "LOND-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "LCY-sky",
+            "PlaceName": "London City",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "LOND-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "SEN-sky",
+            "PlaceName": "London Southend",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "LOND-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "LDY-sky",
+            "PlaceName": "Derry",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "DERR-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "YXU-sky",
+            "PlaceName": "London",
+            "CountryId": "CA-sky",
+            "RegionId": "",
+            "CityId": "YXUS-sky",
+            "CountryName": "Canada"
+        },
+        {
+            "PlaceId": "ELS-sky",
+            "PlaceName": "East London",
+            "CountryId": "ZA-sky",
+            "RegionId": "",
+            "CityId": "ELSA-sky",
+            "CountryName": "South Africa"
+        },
+        {
+            "PlaceId": "USA-sky",
+            "PlaceName": "Concord Regional",
+            "CountryId": "US-sky",
+            "RegionId": "NC",
+            "CityId": "USAA-sky",
+            "CountryName": "United States"
+        },
+        {
+            "PlaceId": "US-sky",
+            "PlaceName": "USA",
+            "CountryId": "US-sky",
+            "RegionId": "",
+            "CityId": "-sky",
+            "CountryName": "USA"
+        },
+        {
+            "PlaceId": "USQ-sky",
+            "PlaceName": "Usak",
+            "CountryId": "TR-sky",
+            "RegionId": "",
+            "CityId": "USQA-sky",
+            "CountryName": "Turkey"
+        },
+        {
+            "PlaceId": "LKI-sky",
+            "PlaceName": "Duluth Lakeside USAF",
+            "CountryId": "US-sky",
+            "RegionId": "MN",
+            "CityId": "DLHA-sky",
+            "CountryName": "United States"
+        },
+        {
+            "PlaceId": "AFF-sky",
+            "PlaceName": "Colorado Springs USAF Academy",
+            "CountryId": "US-sky",
+            "RegionId": "CO",
+            "CityId": "COSA-sky",
+            "CountryName": "United States"
+        },
+        {
+            "PlaceId": "DSA-sky",
+            "PlaceName": "Doncaster Sheffield",
+            "CountryId": "UK-sky",
+            "RegionId": "",
+            "CityId": "DONC-sky",
+            "CountryName": "United Kingdom"
+        },
+        {
+            "PlaceId": "PSA-sky",
+            "PlaceName": "Pisa",
+            "CountryId": "IT-sky",
+            "RegionId": "",
+            "CityId": "PISA-sky",
+            "CountryName": "Italy"
+        },
+        {
+            "PlaceId": "USM-sky",
+            "PlaceName": "Koh Samui / Samui Island",
+            "CountryId": "TH-sky",
+            "RegionId": "",
+            "CityId": "USMT-sky",
+            "CountryName": "Thailand"
+        },
+        {
+            "PlaceId": "OSAA-sky",
+            "PlaceName": "Osaka",
+            "CountryId": "JP-sky",
+            "RegionId": "",
+            "CityId": "OSAA-sky",
+            "CountryName": "Japan"
+        },
+        {
+            "PlaceId": "KIX-sky",
+            "PlaceName": "Osaka Kansai International",
+            "CountryId": "JP-sky",
+            "RegionId": "",
+            "CityId": "OSAA-sky",
+            "CountryName": "Japan"
+        }
+    ]
+}
